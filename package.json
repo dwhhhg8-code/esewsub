@@ -1,11 +1,11 @@
 {
   "name": "esewsub",
   "version": "1.0.2",
-  "description": "A professional and powerful WhatsApp bot framework built on Baileys. Create sophisticated bots with ease - just initialize the bot, define your message handlers and routes, and you're ready to go. Features built-in keyboard system, message parsing, middleware support, and comprehensive event handling for building production-ready WhatsApp bots.",
+  "description": "A professional and powerful WhatsApp bot framework built on Baileys. Create sophisticated bots with ease - just initialize the bot, define your message handlers and routes, and you are ready to go. Features built-in keyboard system, message parsing, middleware support, and comprehensive event handling for building production-ready WhatsApp bots.",
   "license": "MIT",
   "author": {
-    "name": "FLASH-BOT (haitham)",
-    "url": "https://github.com/vhbvhb69-ai"
+    "name": "⚡ 𝙁𝙇𝘼𝙎𝙃 𝘽𝙊𝙏 ⚡",
+    "url": "https://github.com/dwhhhg8-code"
   },
   "repository": {
     "type": "git",
@@ -42,8 +42,8 @@
   "keywords": [
     "whatsapp",
     "bot",
-    "MeowSub",
-    "meowsub",
+    "flash-bot",
+    "flash",
     "baileys",
     "whatsapp-bot",
     "chatbot",
