@@ -68,4 +68,4 @@ For questions, support, or collaboration, feel free to contact the developer:
 
 ## License
 
-MIT © 2026 ⚡ 𝙁𝙇𝘼𝙎𝙃 𝘽𝙊𝙏 ⚡ (haitham) — https://github.com/dwhhhg8-code
+MIT © 2026 ⚡ 𝙁𝙇𝘼𝙎𝙃 𝘽𝙊𝙏 ⚡ — https://github.com/dwhhhg8-code
